@@ -2,6 +2,17 @@
 <h3 align="center">Front-end student from Russia 🇷🇺</h3>
 
 
+<div align = 'center'><a href = 'https://vk.com/brakkabarakabrk'><img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/serg5386@mail.ru-red?style=for-the-badge&logo=Mail.Ru&logoColor=white"/>
+<a href = 'https://www.codewars.com/users/SerejaBrakish'><img src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=Codewars&logoColor=white"/></a>
+</div>
+
+
+
+
+
+
+
 🛠 Languages & Tools
 
 
