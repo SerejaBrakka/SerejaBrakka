@@ -1,14 +1,11 @@
 ### <h1 align="center">Hi there, I'm Sereja <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Front-end student from Russia 🇷🇺</h3>
+<h3 align="center">Front-end 🇷🇺</h3>
 
 
 <div align = 'center'><a href = 'https://vk.com/brakkabarakabrk' target = '_blank'><img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/serg5386@mail.ru-red?style=for-the-badge&logo=Mail.Ru&logoColor=white"/>
 <a href = 'https://www.codewars.com/users/SerejaBrakish' target = '_blank'><img src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=Codewars&logoColor=white"/></a>
 </div>
-
-
-Начинающий Frontend-разработчик.<br>Более полугода занимаюсь фуллтайм обучением и созданием пет-проектов для своего портфолио. На данный момент прохожу онлайн-курсы в СберУниверситет по HTML / CSS / JS / React
 
 
 
